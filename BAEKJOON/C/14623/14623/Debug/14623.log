@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Coding\BAEKJOON\C\14623\14623\소스.cpp(10,39): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Coding\BAEKJOON\C\14623\14623\소스.cpp(13,9): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  14623.vcxproj -> D:\Coding\BAEKJOON\C\14623\Debug\14623.exe

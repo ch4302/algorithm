@@ -1,0 +1,8 @@
+﻿  1010.c
+D:\Coding\CodeUP\foundation_100_problems\1010\1010.c(7,10): warning C4477:  'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Coding\CodeUP\foundation_100_problems\1010\1010.c(7,10): message :  이 인수는 변환 지정자에서 사용됩니다.
+D:\Coding\CodeUP\foundation_100_problems\1010\1010.c(7,10): warning C4473:  'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\Coding\CodeUP\foundation_100_problems\1010\1010.c(7,10): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+D:\Coding\CodeUP\foundation_100_problems\1010\1010.c(7,10): message :  누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+D:\Coding\CodeUP\foundation_100_problems\1010\1010.c(7,10): message :  이 인수는 버퍼 크기로 사용됩니다.
+  1010.vcxproj -> D:\Coding\CodeUP\foundation_100_problems\x64\Debug\1010.exe

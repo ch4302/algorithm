@@ -1,0 +1,4 @@
+﻿  1408.cpp
+D:\Coding\CodeUP\1400~\1408\1408\1408.cpp(9,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding\CodeUP\1400~\1408\1408\1408.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1408.vcxproj -> D:\Coding\CodeUP\1400~\1408\Debug\1408.exe

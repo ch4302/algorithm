@@ -1,0 +1,4 @@
+﻿  1157.cpp
+D:\Coding\BAEKJOON\C\1157\1157\1157.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding\BAEKJOON\C\1157\1157\1157.cpp(6,33): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+  1157.vcxproj -> D:\Coding\BAEKJOON\C\1157\Debug\1157.exe

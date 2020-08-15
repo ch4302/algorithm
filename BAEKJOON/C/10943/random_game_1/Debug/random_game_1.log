@@ -1,0 +1,3 @@
+﻿  problem.c
+D:\Coding\BAEKJOON\C\10943\random_game_1\problem.c(7,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  random_game_1.vcxproj -> D:\Coding\BAEKJOON\C\10943\Debug\random_game_1.exe

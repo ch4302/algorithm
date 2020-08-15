@@ -1,0 +1,4 @@
+﻿  1427.cpp
+D:\Coding\BAEKJOON\C\1427\1427\1427.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding\BAEKJOON\C\1427\1427\1427.cpp(10,15): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  1427.vcxproj -> D:\Coding\BAEKJOON\C\1427\Debug\1427.exe

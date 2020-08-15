@@ -1,0 +1,4 @@
+﻿  1420.cpp
+D:\Coding\CodeUP\1400~\1420\1420\1420.cpp(18,5): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+D:\Coding\CodeUP\1400~\1420\1420\1420.cpp(11,35): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  1420.vcxproj -> D:\Coding\CodeUP\1400~\1420\Debug\1420.exe
