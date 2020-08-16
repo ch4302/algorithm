@@ -1,0 +1,2 @@
+D:\Coding\Algorithm\BAEKJOON\C\1009\1009\Debug\1009.exe
+D:\Coding\Algorithm\BAEKJOON\C\1009\1009\Debug\1009.pdb

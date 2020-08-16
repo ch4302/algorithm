@@ -2,12 +2,20 @@
 using namespace std;
 
 int main() {
-	int n;
-	int a, b;
+	long n;
+	long a, b, last;
 	cin >> n;
 
-	for (int i = 0; i < n; i++) {
+	for (long i = 0; i < n; i++) {
 		cin >> a >> b;
-		int a_r = a % 10;
+
+		last = a;
+		b = b % 4 + 4;
+		for (long j = 2; j <= b; j++) {
+			last = (last * a) % 10;
+		}
+
+		if (last == 0) last = 10;
+		cout << last << '\n';
 	}
 }
