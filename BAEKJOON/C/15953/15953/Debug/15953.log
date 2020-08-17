@@ -1,0 +1,3 @@
+﻿  15953.cpp
+D:\Coding\Algorithm\BAEKJOON\C\15953\15953\15953.cpp(5,15): warning C4101: 'money' :참조되지 않은 지역 변수입니다.
+  15953.vcxproj -> D:\Coding\Algorithm\BAEKJOON\C\15953\Debug\15953.exe
