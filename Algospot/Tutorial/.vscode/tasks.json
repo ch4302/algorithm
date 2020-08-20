@@ -1,0 +1,50 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: g++.exe build active file",
+			"command": "g++",
+			"args": [
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+			],
+			"group": "build",
+			
+			// 컴파일시 에러를 편집기에 반영
+			"problemMatcher": {
+				"fileLocation": [
+					"relative",
+					"${workspaceRoot}"
+				],
+				"pattern": {
+					"regexp": "^(.*):(\\d+):(\\d+):\\s+(warning error):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+				}
+			},
+
+			"options": {
+				"cwd": "C:/MinGW/bin"
+			},
+			"problemMatcher": [
+				"$gcc"
+			]
+		},
+
+		// 바이너리 실행(Windows)
+        {
+            "label": "execute",
+            "command": "cmd",
+            "group": "test",
+            "args": [
+                "/C", "${fileDirname}\\${fileBasenameNoExtension}"
+			]
+		}
+	]
+}
